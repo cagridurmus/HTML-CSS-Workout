@@ -1,0 +1,121 @@
+body{
+    background-color: bisque;
+    
+    
+}
+
+.kapsa{
+    width: 900px;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+.header{
+    padding: 30px;
+}
+
+.header h2{
+    width: 400px;
+    background-color: coral;
+    padding: 5px 20px;
+    border: 2px solid orange;
+    color: white;
+    border-radius: 5px;
+}
+
+.ust_menu{
+    background-color: gainsboro;
+    height: 40px; 
+}
+
+.ust_menu ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ust_menu ul li{
+    float: left;
+}
+
+
+.ust_menu ul li a{
+    display: block;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    line-height: 48px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.ust_menu ul li a:hover{
+    color: crimson;
+}
+
+.ara{
+    height: 40px;
+    line-height: 40px;
+    float: right;
+    margin-right: 10px;
+}
+
+.ara button{
+    width: 60px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+.content{
+    background-color: white;
+    height: 500px;
+}
+.left_Side{
+    line-height: 30px;
+    width: 600px;
+    text-align: justify;
+    float: left;
+}
+
+.left_Side h2{
+    padding-left: 20px;
+    width: 600px;
+    border-bottom: 2px dotted black;  
+}
+
+.left_Side img{
+    height: 300px;
+    width: 300pX;
+    float: left;
+}
+
+.right_Side{
+    
+    width: 270px;
+    margin-left: 30px;
+    float: right;
+    
+}
+
+.right_Side h3{
+    background-color: darkgray;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.right_Side ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.right_Side ul li{
+    height: 40px;
+    background-color: wheat;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid black;
+}
+

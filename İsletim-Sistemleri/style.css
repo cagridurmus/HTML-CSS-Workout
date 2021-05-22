@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.kapsa {
+    width: 900px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #ddd;
+    padding: 50px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color: brown;
+    border-bottom: 2px dotted brown;
+    margin-bottom: 30px;
+}
+
+.img1{
+    float: left;
+    margin-right: 15px;
+}
+
+p{
+    line-height: 150%;
+    text-align: justify;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.par{
+    margin-top: 15px;
+}
+
+.img2{
+    float: right;
+    margin-left: 15px;
+}
+
+.par2{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}

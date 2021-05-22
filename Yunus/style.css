@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+body{
+    background-image: url(img/chalkboard.jpg);
+     
+}
+
+.kapsa{
+    width: 960px;
+    background-color: wheat;
+    margin: 0px auto;
+}
+
+.header{
+    height: 286px;
+}
+
+.header img{
+    text-align: center;
+}
+
+._body{
+    background-color: orange;
+    
+}
+
+.left_side{
+    width: 240px;
+    float: left;
+}
+
+.left_side img{
+    display: block;
+}
+
+.left_side_menu{
+    background-color: #34393D;
+    width: 240px;
+    
+}
+
+.left_side ul li a{
+    display: block;
+    padding: 15px;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    transition: all 1s ease;
+}
+
+.left_side ul li a:hover{
+    background-color: orange;
+    border-right: 10px solid orangered;
+    color: black;
+    padding-left: 20px;
+}
+
+.right_side{
+    float: left;
+    width: 720px;
+    background-color: white;
+}
+
+.top_menu{
+    width: 720px;
+    float: right;
+    background-color: orange;
+}
+
+.top_menu ul li{
+    float: left;
+}
+
+.top_menu ul li a{
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    width: 238px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 25px;
+    transition: all 1s ease;
+}
+
+.top_menu ul li a:hover{
+    background-color: orangered;
+    color: black;
+}
+
+.clear{
+    clear: both;
+}
+
+.yunus{
+    display: block;
+    width: 100%;
+}
+
+.content2{
+    background-color: white;
+    
+}
+
+.emre{
+    display: block;
+    margin:  auto;
+    padding-top: 20px;
+}
+
+.content2 h1,h2{
+    text-align: center;
+}
+
+.paragraph{
+    text-align: justify;
+    padding: 30px;
+    line-height: 30px;
+}
+
+.paragraph1{
+    font: bold;
+    margin: 5px;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid darkgoldenrod;
+    border-radius: 50px;
+    background-color:darkgoldenrod;
+}
+
+.footer{
+    height: 50px;
+    line-height: 50px;
+    color: white;
+    background-color: rgb(42, 42, 70);
+    text-align: center;
+}
+
+.main_content{
+    
+    margin-top: 52px;
+}
+
